@@ -28,11 +28,11 @@ class homepage extends StatelessWidget {
                   children:   [
 
                     Image(
-                      image: AssetImage('images/1.png'),
-                      height : 220,
+                      image: AssetImage('images/5.png'),
+                      height : 150,
                     ),
                     SizedBox(
-                      height: 20,
+                      height:30,
                     ),
 
                     const Text(
@@ -46,7 +46,7 @@ class homepage extends StatelessWidget {
                       ),
                     ),
                     SizedBox(
-                      height: 20,
+                      height:45,
                     ),
                     const Text(
                       'we are creative , enjoy our app',

@@ -20,9 +20,9 @@ class loginscreenState extends State<loginscreen> {
               height: MediaQuery.of(context).size.height * 0.1,
             ),
             const Image(
-              height: 100,
-              width: 100,
-              image: AssetImage('images/3.jpg'),
+              height: 150,
+              width: 150,
+              image: AssetImage('images/5.png'),
             ),
             SizedBox(
               height: MediaQuery.of(context).size.height * 0.025,
